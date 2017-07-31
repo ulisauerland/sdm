@@ -1,7 +1,7 @@
 # sdm
 Syncretism Distribution Modeling
 
-The SDM repositoty contains R code to automatically model the predictions of feature based approaches to the typological distribution of syncretism in morphological paradigms.
+The SDM repository contains R code to automatically model the predictions of feature based approaches to the typological distribution of syncretism in morphological paradigms.
 
 The main linguistic results obtained from this code so far are summarized by Bobaljik & Sauerland (2017).  A more ambitious line of research ties the model predictions statistically to actual distributions (Sauerland & Bobaljik 2015).
 
