@@ -7,6 +7,6 @@ The main linguistic results obtained from this code so far are summarized by Bob
 
 References:
 
-Bobaljik, Jonathan D. and Uli Sauerland. 2017. Star-ABA and the combinatorics of features. Glossa: a journal of general linguistics. (submitted, manuscript at ling.auf.net/lingbuzz).
+Bobaljik, Jonathan D. and Uli Sauerland. 2017. Star-ABA and the combinatorics of features. Glossa: a journal of general linguistics. (submitted, manuscript at http://ling.auf.net/lingbuzz).
 
 Sauerland, Uli and Jonathan D. Bobaljik. 2013.  Syncretism Distribution Modeling: Accidental homophony as a random event. In: Nobu Goto, Koichi Otaki, Atsusi Sato, and Kensuke Takita. Proceedings of GLOW in Asia 9, pp. 31-53. Tsu, Japan. URL: http://faculty.human.mie-u.ac.jp/~glow_mie/glow_IX_index.html
